@@ -9,3 +9,4 @@ let people = [
 ];
 
 listOfNames(people);
+//.
