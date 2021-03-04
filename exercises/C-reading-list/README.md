@@ -22,7 +22,8 @@ Render the list of books on the page. Each book should have a title, author and 
 ## Exercise
 
 - Iterate through the list of books.
-- For each book, create a `<p>` element with the book title and author and append it to the page.
+- For each book, create a `<p>` element with the book title and author and
+ append it to the page.
 - Use a `<ul>` and `<li>` to display the books.
 - Add an `<img>` to each book that links to a URL of the book cover.
 - Change the style of the book depending on whether you have read it (green) or not (red).
